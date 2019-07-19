@@ -1,0 +1,15 @@
+div.div-comment {
+  width: 1000px;
+  background: #fff;
+  margin-top: 20px;
+  display: flex;
+}
+
+div.comment {
+  width: 1000px;
+  max-width: 1000px;
+  background: #eeeeee;
+  margin-left: 10px;
+  padding: 10px;
+  border-radius: 15px;
+}

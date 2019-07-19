@@ -1,0 +1,30 @@
+div.div-post {
+  width: 1050px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  margin: 20px 0 auto;
+  padding: 20px;
+  box-shadow: 0px 0px 5px 3px #cecece;
+}
+
+div.div-post img {
+  border-radius: 50%;
+  height: 100%;
+}
+
+div.profile {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+div.profile-info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+div.profile-info span {
+  color: #6e6e6e;
+  font-size: 14px;
+}
