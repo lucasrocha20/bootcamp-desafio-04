@@ -7,7 +7,7 @@ import facebook from "../../assets/facebook-1.png";
 class Header extends Component {
   render() {
     return (
-      <header class="main-header">
+      <header className="main-header">
         <img src={facebook} />
         <strong>Meu Perfil</strong>
       </header>

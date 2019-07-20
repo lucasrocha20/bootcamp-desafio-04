@@ -29,7 +29,7 @@ class PostList extends Component {
             content: "Também estou fazendo o Bootcamp e estou adorando!"
           },
           {
-            id: 1,
+            id: 2,
             author: {
               name: "Diego Fernandes",
               avatar
@@ -49,7 +49,7 @@ class PostList extends Component {
           "Estou fazendo Bootcamp GoStack da Rocketseat e está sendo muito massa!",
         comments: [
           {
-            id: 2,
+            id: 3,
             author: {
               name: "Diego Fernandes",
               avatar
